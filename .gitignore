@@ -1,3 +1,5 @@
 secret.txt
 /users
 /products/product2.txt
+*.html
+!c.html
